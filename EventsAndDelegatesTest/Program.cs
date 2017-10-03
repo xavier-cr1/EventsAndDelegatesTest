@@ -10,7 +10,7 @@ namespace EventsAndDelegatesTest
     {
         static void Main(string[] args)
         {
-            var strin232 = "test";
+            var strin232 = "test222";
         }
     }
 }
