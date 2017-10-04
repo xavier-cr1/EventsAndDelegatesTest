@@ -4,3 +4,10 @@ C:\Users\Xavier\Source\Repos\EventsAndDelegatesTest\EventsAndDelegatesTest\bin\D
 C:\Users\Xavier\Source\Repos\EventsAndDelegatesTest\EventsAndDelegatesTest\obj\Debug\EventsAndDelegatesTest.csprojResolveAssemblyReference.cache
 C:\Users\Xavier\Source\Repos\EventsAndDelegatesTest\EventsAndDelegatesTest\obj\Debug\EventsAndDelegatesTest.exe
 C:\Users\Xavier\Source\Repos\EventsAndDelegatesTest\EventsAndDelegatesTest\obj\Debug\EventsAndDelegatesTest.pdb
+C:\Users\caxa\Documents\GitHub\Repos\EventsAndDelegatesTest\EventsAndDelegatesTest\obj\Debug\EventsAndDelegatesTest.csprojResolveAssemblyReference.cache
+C:\Users\caxa\Documents\GitHub\Repos\EventsAndDelegatesTest\EventsAndDelegatesTest\obj\Debug\EventsAndDelegatesTest.csproj.CoreCompileInputs.cache
+C:\Users\caxa\Documents\GitHub\Repos\EventsAndDelegatesTest\EventsAndDelegatesTest\obj\Debug\EventsAndDelegatesTest.exe
+C:\Users\caxa\Documents\GitHub\Repos\EventsAndDelegatesTest\EventsAndDelegatesTest\obj\Debug\EventsAndDelegatesTest.pdb
+C:\Users\caxa\Documents\GitHub\Repos\EventsAndDelegatesTest\EventsAndDelegatesTest\bin\Debug\EventsAndDelegatesTest.exe.config
+C:\Users\caxa\Documents\GitHub\Repos\EventsAndDelegatesTest\EventsAndDelegatesTest\bin\Debug\EventsAndDelegatesTest.exe
+C:\Users\caxa\Documents\GitHub\Repos\EventsAndDelegatesTest\EventsAndDelegatesTest\bin\Debug\EventsAndDelegatesTest.pdb

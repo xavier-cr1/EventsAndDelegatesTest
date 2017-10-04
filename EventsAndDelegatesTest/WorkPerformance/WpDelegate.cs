@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace EventsAndDelegatesTest
 {
-    class WorkperformanceEvent
+    public static class WpDelegate
     {
+        public delegate int WorkPerformanceHandler(int hours, WorkType workType);
     }
 }
