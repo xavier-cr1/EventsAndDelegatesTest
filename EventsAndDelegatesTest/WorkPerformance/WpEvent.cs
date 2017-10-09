@@ -14,7 +14,7 @@ namespace EventsAndDelegatesTest
 
         public void DoWork(int hours, WorkType workType)
         {
-            for(int i = 1; i<hours; i++)
+            for(int i = 1; i<=hours; i++)
             {
                 System.Threading.Thread.Sleep(1000);
                 OnWorkPerformed(i, workType);
