@@ -13,8 +13,8 @@ namespace EventsAndDelegatesTest
         static void Main(string[] args)
         {
             //DELEGATE
-            //var delegate1 = new WpDelegate.WorkPerformanceHandler(WorkPerformance1);
-            //delegate1(5, WorkType.HeroesOfTheStorm);
+            var delegate1 = new WpDelegate.WorkPerformanceHandler(WorkPerformance1);
+            delegate1(5, WorkType.HeroesOfTheStorm);
 
             //EVENT
             var wpEventTest = new WpEvent();
@@ -46,11 +46,11 @@ namespace EventsAndDelegatesTest
         }
 
         //DELEGATE signature and args -> defined delegate
-        //static int WorkPerformance1(int hours, WorkType workType)
-        //{
-        //    Console.WriteLine($"Work Performance 1 called: + {hours}");
-        //    return 0;
-        //}
+        static int WorkPerformance1(int hours, WorkType workType)
+        {
+            Console.WriteLine($"Work Performance 1 called: + {hours}");
+            return 0;
+        }
 
         //EVENT
         static void WpEvent_OnWorkPerformed(object sender, WpEventArgs e)
